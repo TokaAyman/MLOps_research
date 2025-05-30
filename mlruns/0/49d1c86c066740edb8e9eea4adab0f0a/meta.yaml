@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ayman/OneDrive/Desktop/ITI_WORK/MLOPS/final/mlruns/0/49d1c86c066740edb8e9eea4adab0f0a/artifacts
+end_time: 1748439248151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49d1c86c066740edb8e9eea4adab0f0a
+run_name: clumsy-shrike-856
+run_uuid: 49d1c86c066740edb8e9eea4adab0f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748437019314
+status: 3
+tags: []
+user_id: ayman

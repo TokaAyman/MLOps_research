@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/304069194508920888/14308ae3fb9b487fbfaed753d3af3668/artifacts
+end_time: 1748442246909
+entry_point_name: ''
+experiment_id: '304069194508920888'
+lifecycle_stage: active
+run_id: 14308ae3fb9b487fbfaed753d3af3668
+run_name: Random Forest
+run_uuid: 14308ae3fb9b487fbfaed753d3af3668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748442135735
+status: 4
+tags: []
+user_id: ayman
